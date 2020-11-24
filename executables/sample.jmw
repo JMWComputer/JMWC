@@ -1,0 +1,28 @@
+
+// haha lexer go brrrr
+
+/*
+
+	Haha i ate my pants
+	and they tasted really good
+
+	want to try??
+
+*/
+
+
+
+u8 a = 0;
+u16 b = 5;
+u16 c = 5;
+u8 d = 5;
+u16 e = 5;
+
+a = b;
+
+u16 add_numbers(u8 _a, u8 _b)
+{
+	u8 q = 15;
+
+};
+
